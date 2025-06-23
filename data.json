@@ -1,82 +1,19 @@
 [
   {
     "question": "what is a noun",
-    "answer": "A noun is the name of a person, place, thing, or idea. Example: Rahim, school, book."
+    "answer": "A noun is the name of a person, place, thing, or idea."
   },
   {
-    "question": "noun এর সংজ্ঞা",
-    "answer": "বিশেষ্য পদ (Noun) হলো সেই শব্দ যা কোনো ব্যক্তি, স্থান, বস্তু, ধারণা বা গুণের নাম বোঝায়।"
+    "question": "5+5 কত",
+    "answer": "10"
   },
   {
-    "question": "what is a verb",
-    "answer": "A verb is a word that describes an action, state, or occurrence. Example: run, eat, sleep."
+    "question": "pi এর মান কত",
+    "answer": "পাই (π) এর মান প্রায় 3.14159।"
   },
   {
-    "question": "ক্রিয়া পদ কাকে বলে",
-    "answer": "ক্রিয়া পদ (Verb) হলো সেই শব্দ যা কোনো কাজ করা, হওয়া বা থাকা বোঝায়।"
-  },
-  {
-    "question": "what is adjective",
-    "answer": "An adjective is a word that describes or modifies a noun or pronoun. Example: beautiful, tall, good."
-  },
-  {
-    "question": "বিশেষণ পদ কি",
-    "answer": "বিশেষণ পদ (Adjective) হলো সেই শব্দ যা Noun বা Pronoun-এর গুণ, দোষ, সংখ্যা, পরিমাণ ইত্যাদি বোঝায়।"
-  },
-  {
-    "question": "5 + 5 কত",
-    "answer": "5 + 5 এর যোগফল হলো 10।"
-  },
-  {
-    "question": "10 - 3 কত",
-    "answer": "10 - 3 এর বিয়োগফল হলো 7।"
-  },
-  {
-    "question": "4 * 6 কত",
-    "answer": "4 * 6 এর গুণফল হলো 24।"
-  },
-  {
-    "question": "20 / 4 কত",
-    "answer": "20 / 4 এর ভাগফল হলো 5।"
-  },
-  {
-    "question": "ত্রিভুজ কাকে বলে",
-    "answer": "ত্রিভুজ হলো তিনটি সরলরেখা দ্বারা আবদ্ধ একটি সমতল ক্ষেত্র।"
-  },
-  {
-    "question": "বর্গক্ষেত্র কি",
-    "answer": "বর্গক্ষেত্র হলো একটি চতুর্ভুজ যার চারটি বাহু সমান এবং প্রতিটি কোণ সমকোণ (90 ডিগ্রি)।"
-  },
-  {
-    "question": "আয়তক্ষেত্রের ক্ষেত্রফল",
-    "answer": "আয়তক্ষেত্রের ক্ষেত্রফল নির্ণয়ের সূত্র হলো: দৈর্ঘ্য গুণন প্রস্থ।"
-  },
-  {
-    "question": "গণিতের প্রধান শাখা কয়টি",
-    "answer": "গণিতের প্রধান শাখাগুলো হলো: পাটিগণিত, বীজগণিত এবং জ্যামিতি।"
-  },
-  {
-    "question": "বিয়োগ কি",
-    "answer": "বিয়োগ হলো একটি গাণিতিক প্রক্রিয়া যেখানে একটি সংখ্যা থেকে অন্য একটি সংখ্যা বাদ দেওয়া হয়।"
-  },
-  {
-    "question": "conjugation of verb",
-    "answer": "Conjugation of verbs involves changing their form to indicate tense, person, number, and mood. For example, 'go' becomes 'goes', 'went', 'going', 'gone'."
-  },
-  {
-    "question": "passive voice কি",
-    "answer": "Passive voice হলো এমন বাক্য গঠন যেখানে কাজের গ্রহণকারী (receiver of the action) বাক্যের প্রধান গুরুত্ব পায়, আর কাজটি যে করছে (doer of the action) সে সাধারণত গৌণ থাকে বা উল্লেখ করা হয় না। যেমন: 'The ball was thrown by the boy.'"
-  },
-  {
-    "question": "what is present perfect tense",
-    "answer": "Present Perfect Tense is used for actions that happened at an unspecified time before now, or actions that began in the past and continue to the present. Structure: Subject + have/has + Past Participle of Verb. Example: 'I have finished my homework.'"
-  },
-  {
-    "question": "সমান্তরাল রেখা কি",
-    "answer": "সমান্তরাল রেখা (Parallel Lines) হলো এমন দুটি রেখা যা একই সমতলে অবস্থান করে এবং কখনোই একে অপরের সাথে মিলিত হয় না, এমনকি অসীম দূরত্বেও নয়।"
-  },
-  {
-    "question": "রম্বস কাকে বলে",
-    "answer": "রম্বস (Rhombus) হলো এমন একটি চতুর্ভুজ যার চারটি বাহুই সমান দৈর্ঘ্যের হয় এবং এর বিপরীত কোণগুলি সমান।"
+    "question": "গণিত শিখতে চাই",
+    "answer": "গণিত শিখার জন্য কোন নির্দিষ্ট বিষয় জানতে চান? যেমন: বীজগণিত, জ্যামিতি, পাটিগণিত?"
   }
+  // আপনার অন্যান্য প্রশ্ন ও উত্তর এখানে যুক্ত করুন
 ]
